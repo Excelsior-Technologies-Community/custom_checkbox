@@ -2,6 +2,8 @@
 
 A customizable and animated checkbox widget for Flutter.
 
+---
+
 ## ✨ Features
 
 - Square, Rounded, and Circle shapes
@@ -11,6 +13,15 @@ A customizable and animated checkbox widget for Flutter.
 - Custom size
 - Label support
 - Easy to use
+- Lightweight and reusable
+
+---
+
+## 📸 Preview
+
+[![Preview](preview/preview.png)](preview/preview.gif)
+
+> Click the image above to watch the demo video.
 
 ---
 
@@ -22,7 +33,7 @@ Add this to your `pubspec.yaml`:
 dependencies:
   custom_checkbox:
     path: ../
-```
+
 
 Then run:
 
