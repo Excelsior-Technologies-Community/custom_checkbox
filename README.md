@@ -19,9 +19,8 @@ A customizable and animated checkbox widget for Flutter.
 
 ## 📸 Preview
 
-[![Preview](preview/preview.png)](preview/preview.gif)
+![Preview](preview/preview.gif)
 
-> Click the image above to watch the demo video.
 
 ---
 
