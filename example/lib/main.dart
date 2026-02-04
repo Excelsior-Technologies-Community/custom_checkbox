@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Custom Checkbox Example',
       home: Scaffold(
         appBar: AppBar(title: const Text('Custom Checkbox Example')),
